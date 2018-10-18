@@ -20,7 +20,7 @@ Email: leej2@hhmi.org<br/>
 
 <div class="span2">
 <a href="../assets/microbiome_study3.jpg">
-<img src="../assets/microbiome_study.jpg"
+<img src="../assets/microbiome_study3.jpg"
 title="microbiome study" alt="microbiome study"/></a>
 </div>
 </div>
@@ -33,9 +33,13 @@ title="microbiome study" alt="microbiome study"/></a>
 Teaching assistant for the phage discovery workshop to familiarize new faculty with the concepts and associated techniques of bacteriophage isolation and characterization. Teaching assistant for the bioinformatics workshop to familarize new faculty with the concepts of genome annotation and comparative genomics using the tools DNA Master and Phamerator.*
 
 [June 2018 	Phage Discovery Workshop, Teaching Assistant, Baltimore, MD](https://seaphages.org/meetings/38/)
+
 [July 2018	Phage Discovery Workshop, Teaching Assistant, Baltimore, MD](https://seaphages.org/meetings/37/)
+
 [Dec 2017	Bioinformatics Workshop, Teaching Assistant, Chevy Chase, MD](https://seaphages.org/meetings/30/)
+
 [July 2017	Phage Discovery Workshop, Teaching Assistant, Baltimore, MD](https://seaphages.org/meetings/27/)
+
 [June 2017	Phage Discovery Workshop, Teaching Assistant, Baltimore, MD](https://seaphages.org/meetings/26/)
 
 #### <u>The Carpentries (Software and Data Carpentry)</u>
@@ -43,9 +47,13 @@ Teaching assistant for the phage discovery workshop to familiarize new faculty w
 
 Software and Data Carpentry, one-day basic lab skills for research computing lessons
 [Oct 2018	Lesson: The UNIX Shell, SACNAS National Conference, San Antonio, TX](https://galaxyproject.org/events/2018-sacnas/)
+
 [Oct 2017	Lesson: The UNIX Shell, SACNAS National Conference, Salt Lake City, UT](https://galaxyproject.org/events/2017-sacnas/)
+
 [April 2017	Lessons: The UNIX Shell & Programming with R, Cornell University, Ithaca, NY](https://joslynnlee.github.io/2017-04-15-cornell/)
+
 [Feb 2017	Lesson: The UNIX Shell, NM STEM Food For Thought Professional Development and Networking Workshop, Santa Fe, NM](https://joslynnlee.github.io/2017-02-25-sfcc/)
+
 [Oct 2016	Lesson: The UNIX Shell, SACNAS National Conference, Long Beach, CA] (https://(josleecshl.github.io/2016-10-12-sacnas/)
 
 #### <u>Computational Chemistry Course</u>
