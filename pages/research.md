@@ -9,7 +9,7 @@ description: Joslynn's research
 #### <u>Genomic Science Leadership Initiative</u>
 *This is not published. Co-organized a 3-day workshop introducing participants to the connection and importance of the natural world to molecular biology and genomics. Participants gain hands-on laboratory and computer experience to explore the presence of bacteria (through 16S rRNA) in Colorado and New Mexico environmental samples affected by the Gold King Mine Spill. This experience introduces the latest DNA technologies and current molecular and computational biology methods. Participants learn about science career paths and leadership philosophy/practices.*
 
-[click here for an overview of the 2018 workshop](https://github.com/joslynnlee/joslynnlee.github.io/blob/master/pages/workbook_2018_shortened.pdf)
+[click here for an overview of the 2018 workshop]({{ BASE_PATH}}/pages/workbook_2018_shortened.pdf)
 
 [click here for an overview of the 2017 workshop](http://maize.jcvi.org/cellgenomics/2017_pcr.php)
 
