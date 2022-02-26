@@ -4,7 +4,14 @@ title: Mentoring
 description: Joslynn's teaching
 ---
 
-
+#### <u>College Courses</u>
+*In her third year at FLC*
+CHEM 150 - General Chemistry Lecture and Lab
+CHEM 311 - General Biochemistry 1
+CHEM 312 - General Biochemistry 1 Lab
+CHEM 313 - General Biochemistry 2
+CHEM 411 - Advanced Biochemistry Lab
+CHEM 497 - Senior Seminar
 
 #### <u>Microbiome [16S rRNA] Course-based Research Experience (CRE)</u>
 *Currently developing a laboratory course (12-14 week) collecting environmental samples, extracting DNA, sequencing V4 region of 16S rRNA gene and performing data analysis with QIIME2.*
@@ -15,7 +22,7 @@ description: Joslynn's teaching
 <div class="row-fluid">
 <div class="span5">
 Joslynn Lee, Ph.D.<br/>
-Email: leej2@hhmi.org<br/>
+Email: jslee at fortlewis.edu<br/>
 </div>
 
 <div class="span2">
